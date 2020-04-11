@@ -12,7 +12,10 @@ namespace Lab_7
         {
 
         }
-
+        public static void AnotherNote()
+        {
+            Console.WriteLine("To check changes");
+        }
         public static void CheckArthur()
         {
             Console.WriteLine("Arthur");
