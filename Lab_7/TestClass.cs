@@ -15,7 +15,7 @@ namespace Lab_7
 
         public static void CheckArthur()
         {
-            Console.WriteLine("Arthur");
+            Console.WriteLine("Eugene");
         }
     }
 }
