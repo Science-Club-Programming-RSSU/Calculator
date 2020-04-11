@@ -252,6 +252,8 @@ namespace Lab_7
         {
             textBox1.Text = "";
         }
+
+        /**/
     }
 }
 
