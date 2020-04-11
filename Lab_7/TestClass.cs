@@ -12,7 +12,6 @@ namespace Lab_7
         {
 
         }
-
         public static void AnotherNote()
         {
             Console.WriteLine("To check changes");
