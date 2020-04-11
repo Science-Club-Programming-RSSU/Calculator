@@ -10,7 +10,7 @@ namespace Lab_7
     {
         public TestClass()
         {
-
+            Console.WriteLine("Rnd");
         }
         public static void AnotherNote()
         {
